@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+svg {
+    position: flex;
+    width: 100%;
+    height: calc(100% - 40px);
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+  }
